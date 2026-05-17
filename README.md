@@ -52,7 +52,7 @@
 
 ## 🚀 About Me
 
-- 📚 Researcher in Pure Mathematics & Graph Theory
+- 📚 Holder in Pure Mathematics & Graph Theory
 - 📊 Passionate about extracting insights from complex datasets
 - 🧠 Interested in Machine Learning, AI, and Data Science
 - 🌱 Continuously learning and building data-driven solutions
