@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=250&section=header&text=Maha%20Afifi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20PhD%20in%20Pure%20Mathematics%20(Graph%20Theory)&descAlignY=58" alt="Maha Afifi GitHub README Header"/>
 
-# Hi there 👋 I'm Maha Afifi
+# Hi there 👋 I'm Maha Afify
 
 🎓 PhD Holder in Pure Mathematics (Graph Theory)  
 📊 Data Analyst with 10+ years of experience in analytics, education, and research  
