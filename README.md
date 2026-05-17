@@ -81,34 +81,111 @@
 
 # 💼 Professional Experience
 
-## 📈 Data Analyst — Arab Contractors
-- Managed and analyzed high-volume project datasets
-- Built KPI dashboards and business intelligence reports
-- Automated reporting workflows using Excel & SQL
-- Conducted trend analysis and executive reporting
+## 📈 Data Analyst — Arab Contractors (2021 – 2024) | Cairo, Egypt
 
-## 👩‍🏫 Assistant Lecturer & Mathematics Instructor
-- Delivered courses in Mathematics, Statistics, and Data Analysis
-- Trained students using Python and analytical methods
-- Integrated AI tools into educational workflows
-
----
-
-# 📌 Featured Research
-
-### 📄 Published Papers
-
-- *Cyclic Cordial Labeling for Lemniscate Graphs and Their Second Powers*  
-  Journal of Mathematics — Wiley (2025)
-
-- *The Cyclic Cordial Labeling of the Corona Product Between a Cycle Graph and the Third Power of a Cycle Graph*  
-  Accepted for Publication (2026)
-
-- *Vertex Composition Cordial Labeling Between Path Graphs and the Second Power of Cycle Graphs*  
-  Accepted for Publication (2026)
+- Managed and analyzed high-volume operational and project datasets for one of the largest construction companies in the MENA region
+- Extracted, transformed, and validated datasets using SQL Server and Excel to ensure data consistency and reporting accuracy
+- Developed interactive dashboards and KPI reports for executive decision-making
+- Conducted trend analysis and performance evaluations to support strategic planning
+- Collaborated with engineering, finance, and project management teams to improve reporting workflows
+- Automated recurring reports using Excel analytical tools and advanced functions
+- Improved data quality by identifying inconsistencies and implementing data-cleaning procedures
+- Presented analytical findings and recommendations through clear visual reports
 
 ---
 
+## 👩‍🏫 Assistant Lecturer – Science & Data Analysis (Part-Time) (2019 – 2021) | Higher Institute of Engineering & Technology, Egypt
+
+- Delivered lectures in Data Analysis, Mathematics, Statistics, and Scientific Computing
+- Trained students in Python-based analytical methods and mathematical modeling
+- Supervised practical sessions involving data visualization and computational analysis
+- Designed assignments, educational materials, and assessments aligned with academic standards
+- Assisted students in understanding analytical thinking and statistical interpretation
+- Integrated AI-powered educational tools and digital technologies into teaching
+- Supported curriculum development related to quantitative and analytical subjects
+
+---
+
+## 📚 Mathematics Teacher & GAT (Qudrat) Trainer (2025 – Present) | Ibn Khaldun Educational Company, Saudi Arabia
+
+- Delivered advanced mathematics instruction and specialized GAT (Qudrat) preparation programs
+- Designed customized quantitative reasoning and aptitude training plans
+- Utilized digital learning systems and AI-assisted educational tools
+- Conducted analytical assessments to identify student weaknesses and improve performance
+- Developed problem-solving exercises focused on mathematical analysis and logical reasoning
+- Achieved high student success rates through data-driven teaching methodologies
+
+---
+
+## 🏫 Mathematics Teacher (2013 – 2021) | Islamic Education Schools (Al Tarbiya Al Islamia), Egypt
+
+- Taught mathematics courses across multiple grade levels
+- Prepared lesson plans, classroom activities, and assessment materials
+- Fostered analytical and critical-thinking skills through interactive teaching methods
+- Monitored student progress and provided individualized academic support
+- Participated in curriculum planning and educational workshops
+- Integrated smart classroom technologies and digital learning resources
+- Maintained a positive and collaborative learning environment
+
+# 📌 Research Experience
+
+## 📄 Published Research Papers
+
+### 1. Cyclic Cordial Labeling for Lemniscate Graphs and Their Second Powers
+**Journal of Mathematics — Wiley (2025)**
+
+Authors:
+- Abdallah, M. A.
+- Nada, S. I.
+- Al-Shamiri, M. M. A.
+- Afify, M. A.
+
+---
+
+### 2. The Cyclic Cordial Labeling of the Corona Product Between a Cycle Graph and the Third Power of a Cycle Graph
+**Applied Mathematics and Information Sciences (Accepted for Publication – 2026)**
+
+Authors:
+- Abdallah, M. A.
+- Nada, S. I.
+- Afify, M. A.
+
+---
+
+### 3. Vertex Composition Cordial Labeling Between Path Graphs and the Second Power of Cycle Graphs
+**International Journal of Contemporary Mathematical Sciences (Accepted for Publication – 2026)**
+
+Authors:
+- Abdallah, M. A.
+- Nada, S. I.
+- Afify, M. A.
+
+---
+
+# 📝 Manuscripts Under Review / Submitted
+
+### 1. Cyclic Cordial Labeling of Certain Graphs in the Third Power
+Submitted for peer review
+
+### 2. Cyclic Cordial Labeling of the Corona Product Between Path Graphs and Lemniscate Graphs
+Submitted for peer review
+
+### 3. Vertex Composition Cordial Labeling Between Path Graphs and the Third Power of Cycle Graphs
+Submitted for peer review
+
+---
+
+# 🎤 Conference Presentations
+
+### Cordial Labeling of the Corona Product Between Cycle Graphs and the Third Power of Cone Graphs
+📍 34th Conference of Topology Science and Its Applications  
+📍 Menoufia University — July 2022
+
+---
+
+### Cordial Labeling of the Third Power of Lemniscate Graphs
+📍 5th Scientific Conference for Young Researchers  
+📍 Sohag University — February 2019
 # 🏆 Achievements
 
 🏅 Successfully analyzed and managed large-scale datasets involving more than 25,000 clients  
